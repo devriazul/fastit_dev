@@ -1,0 +1,9 @@
+html,
+body {
+	background-attachment:fixed;
+	background-position:50% 50%;
+	background-size:cover;
+	margin:0;
+	padding:0;
+}
+.bg-pic { background-image:url("https://demo.dashboardpack.com/adminty-html/files/assets/pages/j-pro/img/bg.jpg"); }
