@@ -30,7 +30,7 @@
                         <div class="about-wrap-content" data-aos="fade-up" data-aos-delay="80" data-aos-duration="800" data-aos-once="true">
                             <div class="about-bg-text">ABOUT US</div>
                             <span>WHO WE ARE</span>
-                            <p>Giga Soft Limited is the best software development/consulting company in Bangladesh
+                            <p>Fast IT is the best software development/consulting company in Bangladesh
                             committed to providing the all sorts of industry with quality and evolving software and
                             services that are intended to manage and improve all aspects of the business process. We
                             offer a complete solution that includes software, hardware, consultation, training, and support through implementation and beyond.</p>

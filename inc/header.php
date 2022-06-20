@@ -26,7 +26,7 @@
 		<link rel="stylesheet" href="assets/css/responsive.css">
         
 		
-		<title>Giga Soft Limited</title>
+		<title>Fast IT</title>
 
         <link rel="icon" type="image/png" href="assets/images/favicon.png">
     </head>
