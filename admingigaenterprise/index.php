@@ -147,7 +147,7 @@
                                     <div class="col-md-12">
                                         <button type="submit"
                                             class="btn btn-primary btn-md btn-block waves-effect text-center m-b-20" name="login"><i
-                                                class="icofont icofont-lock"></i> Lock Screen </button>
+                                                class="icofont icofont-lock"></i> Login </button>
                                     </div>
                                 </div>
                                 

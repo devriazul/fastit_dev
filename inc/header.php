@@ -260,7 +260,7 @@
                             <img src="assets/images/black-logo.png" alt="logo">
                         </a>
                         <div class="sidebar-content">
-                            <h3>Giga Soft Limited is the best software company of Bangladesh.</h3>
+                            <h3>Fast IT is the best software company of Bangladesh.</h3>
                            
 
                             <div class="sidebar-btn">

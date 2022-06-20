@@ -6,7 +6,7 @@
                             <div class="widget-logo">
                                 <a href="index.html"><img src="assets/images/logo.png" alt="image"></a>
                             </div>
-                            <p>Giga Soft Limited is the best software company of Bangladesh.</p>
+                            <p>Fast IT is the best software company of Bangladesh.</p>
 
                             <ul class="widget-social">
                                 <li>
