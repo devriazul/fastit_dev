@@ -143,7 +143,7 @@
 
 
                                     <li class="nav-item">
-                                        <a href="#" class="nav-link">
+                                        <a href="products.php" class="nav-link">
                                             Products 
                                             <i class="ri-arrow-down-s-line"></i>
                                         </a>
